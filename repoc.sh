@@ -1,4 +1,4 @@
-:#!/bin/bash
+#!/bin/bash
 
 # Check if the folder name argument is provided
 if [ $# -ne 1 ]; then
