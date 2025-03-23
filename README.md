@@ -35,11 +35,12 @@ For ease of use add the folder (such as /sh) to your $PATH. You can also:<br>
 [Minimal Bash Template](https://betterdev.blog/minimal-safe-bash-script-template/)<br>
 [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/)<br>
 [Rehan Saeed - Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/blob/main/README.md)<br>
-[Bash-hackers wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/) _(bash-hackers.org)_
-[Shell vars](https://web.archive.org/web/20230318164746/https://wiki.bash-hackers.org/syntax/shellvars) _(bash-hackers.org)_
-[Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
-[Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
-[ShellCheck](https://www.shellcheck.net/) _(shellcheck.net)_
+[Bash-hackers wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/)<br>
+[Shell vars](https://web.archive.org/web/20230318164746/https://wiki.bash-hackers.org/syntax/shellvars)<br>
+[Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/)<br>
+[Bash Guide](http://mywiki.wooledge.org/BashGuide)<br>
+[ShellCheck](https://www.shellcheck.net/)<br>
+[Command line Refrence](https://ss64.com/)<br>
 
 ## Cheatsheets
 Sourced from above and compiled in to one cheatsheet.md in the repo.
